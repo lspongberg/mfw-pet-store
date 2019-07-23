@@ -93,13 +93,13 @@ footer img {
 footer .fine_print {
    margin-top: 10px;
    margin-bottom: 15px;
-   color #333;
+   color: #333;
 }
 @media(max-width: 760px;) {
    .centered {
       float: none;
       margin: 0 auto;   
-}
+}}
    nav {
       padding-top: 0px;
       padding-bottom: 10px;
